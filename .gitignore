@@ -1,0 +1,4 @@
+# Ignore Node Modules
+node_modules
+# Ignore config
+config.js

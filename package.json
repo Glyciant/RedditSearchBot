@@ -1,0 +1,18 @@
+{
+  "name": "RedditSearchBot",
+  "version": "1.0.0",
+  "description": "RedditSearchBot provides a script for a bot to search for keywords from a Reddit post's title and return appropriate results. It's designed to remove repetitive topics.",
+  "main": "app.js",
+  "dependencies": {
+    "jaro-winkler": "^0.2.8",
+    "node-cron": "^1.2.0",
+    "restler": "^3.4.0",
+    "stopword": "^0.1.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glyciant",
+  "license": "ISC"
+}
